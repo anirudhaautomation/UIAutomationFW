@@ -36,15 +36,15 @@ public class ChromeBrowser {
 	public WebDriver getChromeDriver(ChromeOptions cap) {
 
 		if (System.getProperty("os.name").contains("Mac")){
-			System.setProperty("webdriver.chrome.driver", ResourceHelper.getResourcePath("src/main/resources/drivers/chromedriver"));
+			System.setProperty("webdriver.chrome.driver", ResourceHelper.getResourcePath("/home/anirudha/Documents/automation/AutomationFW/src/main/resources/drivers/chromedriver"));
 			return new ChromeDriver(cap);
 		}
 		else if(System.getProperty("os.name").contains("Window")){
-			System.setProperty("webdriver.chrome.driver", ResourceHelper.getResourcePath("src/main/resources/drivers/chromedriver.exe"));
+			System.setProperty("webdriver.chrome.driver", ResourceHelper.getResourcePath("/home/anirudha/Documents/automation/AutomationFW/src/main/resources/drivers/chromedriver"));
 			return new ChromeDriver(cap);
 		}
 		else if(System.getProperty("os.name").contains("Linux")){
-			System.setProperty("webdriver.chrome.driver", "/usr/bin/chrome");
+			System.setProperty("webdriver.chrome.driver", "/home/anirudha/Documents/automation/AutomationFW/src/main/resources/drivers/chromedriver");
 			return new ChromeDriver(cap);
 		}
 		return null;

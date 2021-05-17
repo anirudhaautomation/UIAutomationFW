@@ -1,0 +1,38 @@
+2021-05-16 22:05:675 INFO  AssertionHelper:22 - making script PASS..
+2021-05-16 22:05:415 INFO  AssertionHelper:22 - making script PASS..
+2021-05-16 22:05:405 INFO  TestBase:122 - The driver executable does not exist: /usr/bin/chrome
+2021-05-16 22:05:617 INFO  TestBase:122 - The driver executable does not exist: /usr/bin/chrome
+2021-05-17 07:05:725 INFO  TestBase:122 - The driver executable does not exist: /usr/bin/chrome
+2021-05-17 07:05:742 INFO  TestBase:128 - Initialize Web driver: 2070160397
+2021-05-17 07:05:764 INFO  WaitHelper:31 - WaitHelper object created..
+2021-05-17 07:05:765 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2021-05-17 07:05:776 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2021-05-17 07:05:783 INFO  WaitHelper:146 - page is loaded
+2021-05-17 07:05:940 INFO  TestBase:70 - **************testLoginStarted***************
+2021-05-17 07:05:855 INFO  WaitHelper:31 - WaitHelper object created..
+2021-05-17 07:05:440 INFO  TestBase:128 - Initialize Web driver: 1205580258
+2021-05-17 07:05:444 INFO  WaitHelper:31 - WaitHelper object created..
+2021-05-17 07:05:445 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2021-05-17 07:05:454 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2021-05-17 07:05:461 INFO  WaitHelper:146 - page is loaded
+2021-05-17 07:05:613 INFO  TestBase:70 - **************testLoginStarted***************
+2021-05-17 07:05:922 INFO  TestBase:160 - capturing ui navigation screen...
+2021-05-17 07:05:944 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2021-05-17 07:05:525 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2021-05-17 07:05:581 INFO  LoginPage:42 - Checking for Page Title
+2021-05-17 07:05:590 INFO  LoginPage:45 - Page Title is My Store
+2021-05-17 07:05:591 INFO  TestScript1:19 - Page Title is : My Store
+2021-05-17 07:05:596 INFO  TestBase:88 - **************testLoginFinished***************
+2021-05-17 07:05:754 INFO  TestBase:128 - Initialize Web driver: 1205580258
+2021-05-17 07:05:760 INFO  WaitHelper:31 - WaitHelper object created..
+2021-05-17 07:05:760 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2021-05-17 07:05:771 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2021-05-17 07:05:779 INFO  WaitHelper:146 - page is loaded
+2021-05-17 07:05:929 INFO  TestBase:70 - **************testLoginStarted***************
+2021-05-17 07:05:480 INFO  TestBase:160 - capturing ui navigation screen...
+2021-05-17 07:05:482 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2021-05-17 07:05:44 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2021-05-17 07:05:101 INFO  LoginPage:42 - Checking for Page Title
+2021-05-17 07:05:124 INFO  LoginPage:45 - Page Title is My Store
+2021-05-17 07:05:125 INFO  LoginPage:46 - Page TitleMy Store
+2021-05-17 07:05:131 INFO  TestBase:88 - **************testLoginFinished***************
